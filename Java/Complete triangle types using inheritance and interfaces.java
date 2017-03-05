@@ -252,3 +252,24 @@ public class abc {
 	}
 
 }
+
+
+        Output:
+
+        Type : Equilateral
+        Area : 97.42785792574935
+        Alpha : 60.00000000000001
+        Beta : 60.00000000000001
+        Gamma : 60.00000000000001
+
+        Type : Right Scalene
+        Area : 6.0
+        Alpha : 90.0
+        Beta : 53.13010235415598
+        Gamma : 36.86989764584401
+
+        Type : Obtuse Isosceles
+        Area : 29.663740492392392
+        Alpha : 18.194872338766785
+        Beta : 143.61025532246646
+        Gamma : 18.194872338766785
